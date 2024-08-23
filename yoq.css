@@ -1,0 +1,17 @@
+.Yoq img{
+    position: relative;
+    left: 500px;
+}
+.Yoq h1{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: dotted;
+    font-family: monospace;
+    color: blueviolet;
+}
+.Yoq p{
+    text-align: center;
+    text-decoration: dotted;
+    font-size: 20px;
+    color: blueviolet;
+}
